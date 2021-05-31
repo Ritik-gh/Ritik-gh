@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a web developer
 - 👀 I’m interested in development of web apps
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any cool javascript or python based project
+- 💞️ I’m looking to collaborate on any cool javascript based project
 - 📫 You can contact me at rpsritik@gmail.com
 
 <!---
